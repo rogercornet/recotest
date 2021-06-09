@@ -1,6 +1,5 @@
 # Every Key (Customer Number) has associated recommendations. Each one is the entity.id defined in the Feed,,,,,
 # Key,Recommendation_1,Recommendation_2,Recommendation_3,Recommendation_4,Recommendation_5
-Key,Recommendation_1,Recommendation_2,Recommendation_3,Recommendation_4,Recommendation_5
 194739959,1761987,1761210,1761637,1761369,1757710
 745031658,1761165,1757710,1761369,1759596,1760784
 557174315,1759596,1761369,1761165,1761210,1761203
